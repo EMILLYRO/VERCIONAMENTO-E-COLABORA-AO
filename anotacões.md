@@ -1,17 +1,17 @@
-Repositório
-é a pasta do projeto
+## RepositÃ³rio
+Ã© a pasta do projeto
 
 Commit
-é o grupo de alteração no código
+Ã© o grupo de alteraÃ§Ã£o no cÃ³digo
 
 Branch
-São ramificações do projeto, servem para separar grandes modificações e evitam criar problemas no código principal.
+SÃ£o ramificaÃ§Ãµes do projeto, servem para separar grandes modificaÃ§Ãµes e evitam criar problemas no cÃ³digo principal.
 
 merge
-união de duas branches
+uniÃ£o de duas branches
 
 clone
-é como uma branch de um repositório online em um reposítório local
- Quando se deseja trabalhar em um repositório hospedado no githhub,
-clona-se esse repositório para o seu computador.trabalha se nele
-então é pedida a permição para atualizar as alterações online. 
+Ã© como uma branch de um repositÃ³rio online em um reposÃ­tÃ³rio local
+ Quando se deseja trabalhar em um repositÃ³rio hospedado no githhub,
+clona-se esse repositÃ³rio para o seu computador.trabalha se nele
+entÃ£o Ã© pedida a permiÃ§Ã£o para atualizar as alteraÃ§Ãµes online. 
